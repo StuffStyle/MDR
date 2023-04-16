@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "RST资料库",
+  description: "回响项目组资料库",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -13,16 +13,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '资料分类',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Novel', link: '/markdown-examples' },
+          { text: 'Music&Video', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/StuffStyle' }
     ]
   }
 })
