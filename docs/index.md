@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "回响项目组资讯中心"
-  text: "回响项目组资讯发布"
-  tagline: My great project tagline
+  name: "你一切想知道的"
+  text: "都在这里"
+  tagline: 回响项目组资料库
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 查找资料
+      link: /check
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 资讯
+      link: /news
       
 ---
 
