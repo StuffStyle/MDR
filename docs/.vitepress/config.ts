@@ -8,16 +8,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '资讯', link: '/news' }
+      { text: '资讯', link: '/news/index.md' }
     ],
 
     sidebar: [
       {
         text: '资料分类',
         items: [
-          { text: 'Novel', link: '/novel' },
-          { text: 'Music&Video', link: '/music&video' }，
-          { text: 'Coding', link: '/coding' }，
+          { text: 'Novel', link: '/novel/index.md' },
+          { text: 'Music&Video', link: '/music&video/index.md' }，
+          { text: 'Coding', link: '/coding/index.md' }，
         ]
       }
     ],
