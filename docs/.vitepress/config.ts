@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Novel', link: '/novel/index.md' },
           { text: 'Music&Video', link: '/music&video/index.md' }，
-          { text: 'Coding', link: '/coding/index.md' }，
+          { text: 'Coding', link: '/coding/index.md' }
         ]
       }
     ],
