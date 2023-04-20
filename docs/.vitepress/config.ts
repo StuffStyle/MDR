@@ -16,8 +16,7 @@ export default defineConfig({
         text: '资料分类',
         items: [
           { text: 'Novel', link: '/novel/index.md' },
-          { text: 'Music&Video', link: '/music&video/index.md' }，
-          { text: 'Coding', link: '/coding/index.md' }
+          { text: 'Music&Video', link: '/music&video/index.md' }
         ]
       }
     ],
