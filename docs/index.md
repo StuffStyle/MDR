@@ -3,31 +3,15 @@
 layout: home
 
 hero:
-  name: "你一切想知道的"
-  text: "都在这里"
-  tagline: 回响项目组资料库
+  name: "秋收季节快到了"
+  text: "要去看看金麦田吗？"
+  tagline: 跃进计划 WIKI站
   actions:
     - theme: brand
-      text: 查找资料
-      link: /check
+      text: 首页
+      link: /first
     - theme: alt
-      text: 资讯
-      link: /news
+      text: 番外
+      link: /side-story
       
 ---
-<script setup>
-import { useData } from 'vitepress'
-
-const { theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
