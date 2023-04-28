@@ -1,6 +1,8 @@
 # 如何提交Music&Video？
 请先阅读我们支持的类型：
+
 [Music&Video - 支持类型](/music&video/type-we-support)
+
 我们支持两种方式：
 - 通过邮件直接发送
 - 通过支持的云盘APP或其他存储方式
